@@ -20,7 +20,7 @@ This backend application powers the Decision Support System for Route Planning i
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <backend-repo-url>
+   git clone https://github.com/kaantemel/Graduation-Project-Backend.git
    ```
 2. Install dependencies:
    ```bash
